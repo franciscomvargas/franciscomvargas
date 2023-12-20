@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1UPW1NESN75dIIuo7C/giphy.gif" width="200"/>
+  <a href="https://vargasos.netlify.app">
+    <img src="https://media.giphy.com/media/1UPW1NESN75dIIuo7C/giphy.gif" width="200"/>
+  </a>
 </div>
 
 <div id="badges" align="center">
