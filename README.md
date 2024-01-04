@@ -81,75 +81,75 @@ I am a Back-End Developer from Portugal! 🇵🇹
 
 <table width="100%" border="0">
   <tr>
-    <th align="center" style="background-color:#293241">
+    <th width="30%" align="center">
       Data Analysis
     </th>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <th align="center" style="background-color:#293241">
+    <th align="center">
       Web Development
     </th>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" alt="fastapi" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <th align="center" style="background-color:#293241">
+    <th align="center">
       Databases Languages
     </th>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" **alt="mysql" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="mysql" **alt="mysql" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" alt="sqlite" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <th  rowspan="3" align="center" style="background-color:#293241">
+    <th  rowspan="3" align="center">
       Other Tools
     </th>
-    <td align="center" style="background-color:#293241"> 
+    <td align="center"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="git" **alt="git" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git" **alt="git" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
-    </td>
-    <td align="center" style="background-color:#293241">
+    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
     </td>
-    <td align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center" style="background-color:#293241">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>
+    <td colspan="3" align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>
     </td>
   </tr>
 </table>
