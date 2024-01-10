@@ -57,14 +57,14 @@ I am a Back-End Developer from Portugal! 🇵🇹
 
 <table width="100%" border="0">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api?username=franciscomvargas&theme=github_dark_dimmed" alt="franciscomvargas's GitHub stats" title="GitHub Stats"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api?username=franciscomvargas&theme=github_dark_dimmed&hide_border=true" alt="franciscomvargas's GitHub stats" title="GitHub Stats"></td>
   </tr>
   <tr>
-    <td width="58%" align="center"><img         src="http://github-readme-streak-stats.herokuapp.com?user=franciscomvargas&theme=dark&theme=github_dark_dimmed" alt="franciscomvargas's GitHub Streak" title="GitHub Streak"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomvargas&hide=html,css&layout=compact&theme=github_dark_dimmed" alt="franciscomvargas's Most Used Languages" title="Top Languages"></td>
+    <td width="58%" align="center"><img src="https://streak-stats.demolab.com/?user=franciscomvargas&theme=github_dark_dimmed&hide_border=true&mode=weekly" alt="franciscomvargas's GitHub Streak" title="GitHub Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscomvargas&hide=html,css&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="franciscomvargas's Most Used Languages" title="Top Languages"></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=franciscomvargas&theme=nord" alt="franciscomvargas's GitHub Trophy" title="GitHub Trophy"></td>
+    <td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=franciscomvargas&theme=nord&hide_border=true" alt="franciscomvargas's GitHub Trophy" title="GitHub Trophy"></td>
   </tr>
 </table> 
 
